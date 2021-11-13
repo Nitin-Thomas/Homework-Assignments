@@ -1,11 +1,11 @@
 # Social Finance Inc (SOFI) - Case Study
 
-![](https://santanderglobaltech.com/wp-content/uploads/2019/03/fintechdescription.jpg)
-<small>Source: https://santanderglobaltech.com</small>
+![](https://www.forbes.com/advisor/wp-content/uploads/2020/08/getty_what_is_fintech_080220pm_jpg_yvtZYBW2.jpg)
+<small>Source: https://forbes.com</small>
 
 ## Robo-Advising disrupting the world of Personal Finance
 
-## Introduction and Landscape
+## Landscape
 <div align="Justify">
 The idea of Robo-Advising, and the disruptions it could pose to the traditional Financial Advisory industry was not unfamiliar to even the smallest of family run advisory firms, in the most discreetest towns of sub-urban India. The movement became an inevitable endeavor as early as the year 2005. Infact, almost everyday, there were a few new youtube and tv ads popping up, introducing creative ways to manage personal finance. Family Run advisory firms were on the lookout of cost effective technology compmanies that would mine data so that advisors could discover methods to transition into a data-driven advising model and portfolio allocation. Infact, it became quite obvious that to the novice investor that they could get started for less, pay less but earn more. While advisors were not exactly savvy at using data to drive their advice, they certainly had these tag lines on their website - 'automated service to grow their money', 'automatically comes up with an investment portfolio', 'automated investment tools in the market' etc. The word 'automated' or 'automatically' was meant to ease the investor into the concept of using technology to guide investment, but not entirely remove the 'human' component that meant personalization, care, empathy, accountability etc to many.
 <br></br>
@@ -53,10 +53,13 @@ Companies like Lending Club, Lendkey, Earnest are competitors to SoFi in the stu
 
 [//]:<What specific financial problem is the company or project trying to solve?>
 [//]:<What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?>
+[//]:<What has been the business impact of this company so far?>
+[//]:<How is your company performing relative to competitors in the same domain?>
 
 While the other comparable digital banks/financial services providers, focus on cash management, financial planning and investment options etc. SoFi happens to be the only major digital bank that has received approvals under the national banking charter, giving it the ability to accept deposits and and make loans. Furthermore, SoFi is the only one that offers loans to its members. This key offering is likely acquire the increasing number of young, high-income millenials and Gen Z customers. This demographic tailwind is a significant growth catalyst for the next decade<sup>[9]</sup>.
 
-## Results
+## Profitability and Prospects
+[//]:<What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?>
 > **Growth Vectors** <br></br>
 >With SoFi's diversified integrated services and strong customer growth, cross-buying by existing users drives the revenues per customer. Meanwhile, low customer acquisition costs cushion margins. In the last quarter of 2021, SoFi added 377k customers, which is a 96% increase YoY.
 
@@ -66,25 +69,25 @@ While the other comparable digital banks/financial services providers, focus on 
 > **Stock Analysis** <br></br>
 > Wall Street analysts maintain a bullish outlook and recommend a strong buy for SoFi, implying that it will outperform market benchmarks.
 
-[//]:<What has been the business impact of this company so far?>
-[//]:<What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?>
-[//]:<How is your company performing relative to competitors in the same domain?>
-
 ## Recommendations
 [//]:<Why do you think that offering this product or service would benefit the company?>
+The Digital Ecosystem, being a group of interconnected information technology resources that work as a single unit, converting a single transaction to a journey. A study conducted by McKinsey.com, indicate that many sectors like B2B services, Mobility, Travel, Hospitality, Health and Housing are re-inventing ecosystems by building networks of networks that could add upto $60 trillion into the economy by 2025.
 
+An ecosystem bridges gaps along the value chain by creating a unified value proposition through a customer centric gateway that reduces subscription costs for customers and provide new experiences and appetite for new products. A survey reveals that 7 out 10 consumers were pro-ecosystem because it is viewed as a journey rather than a transaction.
+
+[//]:<What technologies would this additional product or service utilize?>
+[//]:<Why are these technologies appropriate for your solution?>
+With various plug-ins and data sources available as 'services', an ecosystem does not require every service to be made in-house. Rather, partnering with other participants can unleash innovation and new efficiencies along the value chain. However, 5G for stable connections, Data (which the ecosystem can provide), AI models, Cloud facilities are key to build such an ecosystem. More efficient cybersecurity protocols, effective regulations and Privacy protocols cannot escape from becoming the foundation of any platform, to project reiability and accountability (especially when there isn't a physical place to run to)<sup>[15]</sup>.
 
 [//]:<If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)>
- 
  > **Digital Environment and Value Added Services**<br></br>
  >Traditional banks, in order to make their digital offerings attractive, provide promotions for premium online services like streaming, entertainment, learning, shopping or food delivery. It's also quite common for credit cards to have cash back or travel points and lounge passes by accumulating points. Crypto trading platforms offer credit cards with tons of add-ons like a free Netflix subscription when you sign up. Drawing from these examples, and with common knowledge that these other services are inevitable to this is a good opportunity to consolidate the digital environment and give users an equitable position to have all these value added services and save money that can be put to better use. 
 
  > **Learning & Development**<br></br>
 > Financial literacy has become increasingly important for government and citizens when economic health and stability are concerned. The World Bank Financial literacy program focusses on improving this understanding for School students and college students, so that they can bring this modern financial knowledge to their homes and communities<sup>[10]</sup>. In the long run, it would translate to better allocation of capital, from savers to investors to. Trading Platforms for practice and mobile app games would be a creative way to muster inquisitiveness into the field.
 
+Quite evident already with the Apple, Google and Samsung ecosystems - houing Communication, Technology, Finance, Health, Entertainment, Productivity, Learning and development and much more. An ecosystem bridges gaps along the value chain by creating a unified value proposition through a customer centric gateway that reduces subscription costs for customers and provide new experiences and appetite for new products. A survey reveals that 7 out 10 consumers were pro-ecosystem because it is viewed as a journey rather than a transaction.
 
-[//]:<What technologies would this additional product or service utilize?>
-[//]:<Why are these technologies appropriate for your solution?>
 
 ## Appendix
 
@@ -103,3 +106,4 @@ While the other comparable digital banks/financial services providers, focus on 
 12. https://www.tipranks.com/stocks/sofi/website-traffic
 13. https://www.tipranks.com/stocks/sofi/stock-analysis
 14. https://s27.q4cdn.com/749715820/files/doc_presentation/2021/Project-Lightning_PIPE-Investor-Presentation_-SoFi-FINAL-(01.06.2021)2.pdf
+15. https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ecosystem-2-point-0-climbing-to-the-next-level
