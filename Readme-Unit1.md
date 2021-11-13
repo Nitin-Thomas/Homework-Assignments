@@ -14,7 +14,7 @@ The idea of Robo-Advising, and the disruptions it could pose to the traditional 
 Opportunity has two dimensions. Better advice Even today, a large number of clients, whether associated with the big banks or credit unions, are not offered any meaningful advisory services. Those that do have a dedicated Financial Advisor, usually have meetings only when there is a specific need or an annual meeting to adhere with compliance. Finance is an everyday affair - and financial health is a combination of many choices. For investors, the more simplified, descriptive, graphical and forward-looking, the better. The coining of technology with finance, the advent of FinTech was certainly the way to go.
 
 ## Sofi Inc - The of future banking
-![](https://myfisense.com/wp-content/uploads/2021/01/sofi-1280x680.jpg)
+![](https://securecdn.pymnts.com/wp-content/uploads/2020/04/sofi-acquisition-galileo-api-1000x600.jpg)
 
 [//]: < When was the company incorporated?>
 [//]: < Who are the founders of the company?>
