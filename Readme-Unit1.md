@@ -105,3 +105,5 @@ Quite evident already with the Apple, Google and Samsung ecosystems - housing Co
 13. https://www.tipranks.com/stocks/sofi/stock-analysis
 14. https://s27.q4cdn.com/749715820/files/doc_presentation/2021/Project-Lightning_PIPE-Investor-Presentation_-SoFi-FINAL-(01.06.2021)2.pdf
 15. https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ecosystem-2-point-0-climbing-to-the-next-level
+
+>Compiled by: Nitin Thomas
