@@ -73,8 +73,6 @@ While the other comparable digital banks/financial services providers, focus on 
 [//]:<Why do you think that offering this product or service would benefit the company?>
 The Digital Ecosystem, being a group of interconnected information technology resources that work as a single unit, converting a single transaction to a journey. A study conducted by McKinsey.com, indicate that many sectors like B2B services, Mobility, Travel, Hospitality, Health and Housing are re-inventing ecosystems by building networks of networks that could add upto $60 trillion into the economy by 2025.
 
-An ecosystem bridges gaps along the value chain by creating a unified value proposition through a customer centric gateway that reduces subscription costs for customers and provide new experiences and appetite for new products. A survey reveals that 7 out 10 consumers were pro-ecosystem because it is viewed as a journey rather than a transaction.
-
 [//]:<What technologies would this additional product or service utilize?>
 [//]:<Why are these technologies appropriate for your solution?>
 With various plug-ins and data sources available as 'services', an ecosystem does not require every service to be made in-house. Rather, partnering with other participants can unleash innovation and new efficiencies along the value chain. However, 5G for stable connections, Data (which the ecosystem can provide), AI models, Cloud facilities are key to build such an ecosystem. More efficient cybersecurity protocols, effective regulations and Privacy protocols cannot escape from becoming the foundation of any platform, to project reiability and accountability (especially when there isn't a physical place to run to)<sup>[15]</sup>.
@@ -86,7 +84,7 @@ With various plug-ins and data sources available as 'services', an ecosystem doe
  > **Learning & Development**<br></br>
 > Financial literacy has become increasingly important for government and citizens when economic health and stability are concerned. The World Bank Financial literacy program focusses on improving this understanding for School students and college students, so that they can bring this modern financial knowledge to their homes and communities<sup>[10]</sup>. In the long run, it would translate to better allocation of capital, from savers to investors to. Trading Platforms for practice and mobile app games would be a creative way to muster inquisitiveness into the field.
 
-Quite evident already with the Apple, Google and Samsung ecosystems - houing Communication, Technology, Finance, Health, Entertainment, Productivity, Learning and development and much more. An ecosystem bridges gaps along the value chain by creating a unified value proposition through a customer centric gateway that reduces subscription costs for customers and provide new experiences and appetite for new products. A survey reveals that 7 out 10 consumers were pro-ecosystem because it is viewed as a journey rather than a transaction.
+Quite evident already with the Apple, Google and Samsung ecosystems - houing Communication, Technology, Finance, Health, Entertainment, Productivity, Learning and development and much more. An ecosystem bridges gaps along the value chain by creating a unified value proposition through a customer centric gateway that reduces subscription costs for customers and provide new experiences and appetite for new products. A survey reveals that 7 out 10 consumers were pro-ecosystem because it is viewed as a journey rather than a transaction - now that's a trend setter!
 
 
 ## Appendix
